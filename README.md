@@ -1,4 +1,3 @@
-# json
 {
   "squadName" : "Super cake squad",
   "homeTown" : "cake City",
