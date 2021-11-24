@@ -16,9 +16,9 @@
       ]
     },
     {
-      "name" : "Madame Uppercut",
+      "name" : "strawberry cake",
       "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "secretIdentity" : "strawberry parker",
       "powers" : [
         "Million tonne punch",
         "Damage resistance",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name" : "Eternal Flame",
+      "name" : "stone cake",
       "age" : 1000000,
       "secretIdentity" : "Unknown",
       "powers" : [
